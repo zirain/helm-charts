@@ -14,6 +14,3 @@ helm repo add kurator https://chart.zirain.space
 ```
 
 You can then run `helm search repo kurator` to see the charts.
-
-<!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
-Chart documentation is available in [grafana directory](https://github.com/grafana/helm-charts/blob/main/charts/grafana/README.md).
