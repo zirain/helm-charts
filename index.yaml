@@ -11,6 +11,16 @@ entries:
     urls:
     - https://github.com/zirain/helm-charts/releases/download/cluster-operator-0.4.12/cluster-operator-0.4.12.tgz
     version: 0.4.12
+  - apiVersion: v2
+    appVersion: 0.4.11
+    created: "2023-04-13T16:46:36.386153857Z"
+    description: A Helm chart for kurator cluster operator
+    digest: 138cf5378827d3f0a00ed59a88cf262abcebdb0c2cfb0df6feb2deacb1b45603
+    name: cluster-operator
+    type: application
+    urls:
+    - https://github.com/zirain/helm-charts/releases/download/cluster-operator-0.4.11/cluster-operator-0.4.11.tgz
+    version: 0.4.11
   fleet-manager:
   - apiVersion: v2
     appVersion: 0.4.12
@@ -22,4 +32,14 @@ entries:
     urls:
     - https://github.com/zirain/helm-charts/releases/download/fleet-manager-0.4.12/fleet-manager-0.4.12.tgz
     version: 0.4.12
-generated: "2023-04-13T16:35:26.366893609Z"
+  - apiVersion: v2
+    appVersion: 0.4.11
+    created: "2023-04-13T16:46:36.521792235Z"
+    description: A Helm chart for kurator fleet manager
+    digest: 2125685ecac4df309e573b8d26ddba52cce3a43bfa7ce5de1ccd1f2ef784e84b
+    name: fleet-manager
+    type: application
+    urls:
+    - https://github.com/zirain/helm-charts/releases/download/fleet-manager-0.4.11/fleet-manager-0.4.11.tgz
+    version: 0.4.11
+generated: "2023-04-13T16:46:36.521802935Z"
